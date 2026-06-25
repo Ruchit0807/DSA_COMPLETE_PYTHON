@@ -6,11 +6,13 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ruchit0807/DSA_COMPLETE_PYTHON/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ruchit0807/DSA_COMPLETE_PYTHON/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ruchit0807/DSA_COMPLETE_PYTHON/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ruchit0807/DSA_COMPLETE_PYTHON/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ruchit0807/DSA_COMPLETE_PYTHON/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ruchit0807/DSA_COMPLETE_PYTHON/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
